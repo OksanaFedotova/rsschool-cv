@@ -1,12 +1,14 @@
 # Oksana Fedotova  
 ![My photo](https://github.com/OksanaFedotova/rsschool-cv/raw/gh-pages/images/photo.png)
 ## Contacts
-phone | email | discord
------- | ------ | ------
-+7-952-280-08-16 | oxana-fedotova@yandex.ru  | oksana (@OksanaFedotova)
+
+| phone | email | discord |
+| ------ | :------: | ------: |
+| +7-952-280-08-16 | oxana-fedotova@yandex.ru  | oksana (@OksanaFedotova) |
 
 ## About me
-I am Junior JavaScript developer. 
+I am Junior JavaScript developer.
+
 ## Skills
 * Knowledge of JavaScript, html, css
 * Experience with React, Lodash, Phaser libraries
@@ -14,6 +16,7 @@ I am Junior JavaScript developer.
 * Experience with jest framework
 * Experience with zsh shell
 * Experience with git version control system
+
 ## Code example
 ```
 function createPhoneNumber(numbers){
@@ -34,6 +37,7 @@ I implemented different kinds of JavaScript educational projects:
     * *Pokemon game:* a 5 page website built with React. It is a card game between the player and the AI. There is a login form, player data is stored in Firebase, AI algorithm is on heroku. https://github.com/OksanaFedotova/pokemon-game
     * *Red alien:* a platformer built with Phaser 3.
     https://github.com/OksanaFedotova/redAlien
+    
 ## Education
 * Hexlet courses:
     * Frontend developer
