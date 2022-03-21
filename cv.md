@@ -1,8 +1,10 @@
 # Oksana Fedotova  
 ![My photo](https://github.com/OksanaFedotova/rsschool-cv/raw/gh-pages/images/photo.png)
 ## Contacts
-+7-952-280-08-16 | oxana-fedotova@yandex.ru | discord: oksana (@OksanaFedotova)
-------------- | ------------- | ------------- 
+phone | email | discord
+------ | ------ | ------
++7-952-280-08-16 | oxana-fedotova@yandex.ru  | oksana (@OksanaFedotova)
+
 ## About me
 I am Junior JavaScript developer. 
 ## Skills
@@ -38,4 +40,7 @@ I implemented different kinds of JavaScript educational projects:
     * Node.js developer
 * React marathon
 
-**English level - intermediate**
+## Languages 
+* *English*: intermediate
+* *French*: intermediate
+* *Russian*: native
